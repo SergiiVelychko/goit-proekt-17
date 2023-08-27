@@ -1,0 +1,49 @@
+/* --------------mobile--------------------- */
+
+@media screen and (min-width: 375px) {
+    .container {
+        max-width: 375px;
+    }
+
+    .price-list {
+        width: 343px;
+    }
+}
+
+/* --------------tablet------------------- */
+
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+
+    .price-section {
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
+    .price-container {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .price-list {
+        max-width: 704px;
+    }
+
+    .price-container-list {
+        height: 105px;
+    }
+
+    .price-list-item {
+        height: 42px;
+    }
+
+    .price-mebles-text {
+        font-size: 32px;
+        line-height: 1.4;
+    }
+
+    .price-mebless-dollars {
+        font-size: 18px;
+    }
