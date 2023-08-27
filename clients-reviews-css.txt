@@ -81,3 +81,20 @@
     display: none;
 }
 }
+
+.clients-reviews-name {
+    font-size: 20px;
+    line-height: 2.25; /* 225% */
+  }
+  .clients-reviews-date {
+    font-size: 16px;
+    line-height: 1.5; /* 128.571% */
+  }
+  .clients-reviews-avatar {
+    width: 56px;
+    height: 56px;
+  }
+  .clients-reviews-description {
+    font-size: 18px;
+    line-height: 1.5;
+  }
